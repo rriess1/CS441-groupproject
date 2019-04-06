@@ -1,0 +1,1 @@
+You have to deliver your pizza but rival pizza companies have sent their own pizza agents to stop you! Play as The Pizza Guy as you try to get across without losing your pizza to others! Essentially a pizza frogger. You have to cross without getting touched by the pizzas, everytime you get across you get points and the game gets harder.
